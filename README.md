@@ -4,7 +4,7 @@ Projet Machine Learning — prédiction de survie sur le Titanic
 ## Résultat
 Score Kaggle : 0.75
 
-## Technologies utilisées
+## Outils utilisées
 - Python
 - Pandas, Numpy
 - Scikit-learn (Random Forest)
